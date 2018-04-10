@@ -1,0 +1,34 @@
+/*目前卡密程序集成的有：1001,1002,1003,1004,1005,1006,1007
+*1001 = 天卡
+*1002 = 周卡
+*1003 = 月卡
+*1004 = 季卡
+*1005 = 半年卡
+*1006 = 年卡
+*1007 = 永久卡
+*/
+<buygoods>
+*设置需要显示的商品信息
+100000={1002,1001,1003,1006};
+*设置商品价格
+-100001={1001="1.00",1002="3.00",1003="9.00",1004="18.00",1005="29.00",1006="60.00",1007="39.00"};
+*设置支付方式对应的商品地址
+100002={alipay="txt01",wxpay="txt01",qqpay="txt01"};
+*设置需要显示的支付方式(已集成：alipay,wxpay,qqpay)
+100003={alipay,qqpay};
+*设置网页购买地址
+200000={URL="http://daili.rc521.cn/?cid=1&tid=4"};
+
+txt01={
+@1001="http://www.youka.la/product/4C9ADC00A1E54447?1" *天卡
+@1002="http://www.youka.la/product/56DA5EE8746EA53C?1" *周卡
+@1003="http://www.youka.la/product/CC5CD4BFC6127A43?1" *月卡
+@1004="http://www.zuopay.com/details/9D2E03151167AA3E" *季卡
+@1005="http://www.zuopay.com/details/424D92A1ACBF6B6B" *半年卡
+@1006="http://www.youka.la/product/A2A6044221F315BB?1" *年卡
+@1007="http://www.zuopay.com/details/B0B05E5C93B1DC37" *永久卡
+};
+
+
+</buygoods>
+

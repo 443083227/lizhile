@@ -1,0 +1,15 @@
+格式为:mc电视名|dz直播地址
+{@mc=新加坡亚洲新闻|@dz=http://tglcnas-lh.akamaihd.net/i/cnas_fta@334579/master.m3u8|
+@mc=美國中文台|@dz=http://ec.sinovision.net/video/ts/lv.m3u8|
+@mc=美东频道|@dz=http://174.127.67.246/live330/playlist.m3u8|
+@mc=英国天空新闻台|@dz=http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8|
+@mc=韩国EBS2|@dz=http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8|
+@mc=生島涼|@dz=http://ginocdn.bybzj.com:8092/wuma/20180101/hd_heyzo-1595/650kb/hls/index.m3u8|
+@mc=愛乃まほろ|@dz=http://ginocdn.bybzj.com:8092/wuma/20180101/hd_heyzo-1541/650kb/hls/index.m3u8|
+@mc=美月るな|@dz=http://ginocdn.bybzj.com:8092/wuma/20180101/hd_heyzo-1443/650kb/hls/index.m3u8|
+@mc=井出美紀 30歳|@dz=http://ginocdn.bybzj.com:8092/wuma/20180101/hd_h0930-ki171205/650kb/hls/index.m3u8|
+@mc=韩国EBS2|@dz=http://vip.52rctc.com/yyjiexi/ylive_s.php?id=22490906|
+
+@mc=韩国EBS2|@dz=http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8|
+
+@mc=CCTV-8|@dz=http://www.kankanzhibo.com/hnws/fyzb.php?name=cctv3|}

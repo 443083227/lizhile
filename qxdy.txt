@@ -1,0 +1,7 @@
+﻿
+<analysis>http://vip.52rctc.com/ckplayer/?url=</analysis>-----这里是解析接口1
+<analysis2>http://mzli.club/jx/?url=</analysis2>-----这里是解析接口2
+<analysis3>http://jx.2012net.com/index.php?url=</analysis3>-----这里是解析接口3
+<analysis4>http://api.wlzhan.com/sudu/?url=</analysis4>-----这里是解析接口4
+<analysis5>http://vip.1717yun.com/52rctc.php?url=</analysis5>-----这里是解析接口5
+<analysis6>http://vip.1717yun.com/52rctc.php?url=</analysis6>-----这里是解析接口5

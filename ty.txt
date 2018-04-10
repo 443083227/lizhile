@@ -1,0 +1,163 @@
+{"data":[
+{
+	"img":"http://tupian.tupianzy.com/pic/upload/vod/2018-03-07/201803071520415622.jpg",
+    "txt":"我们恋爱的履历",
+	"url":"http://zuidazy.com/?m=vod-detail-id-45791.html"
+},
+{
+	"img":"http://tupian.tupianzy.com/pic/upload/vod/2018-03-07/201803071520408612.jpg",
+    "txt":"魔国志I之黄巾之乱",
+	"url":"http://zuidazy.com/?m=vod-detail-id-45788.html"
+},
+{
+	"img":"http://tupian.tupianzy.com/pic/upload/vod/2017-11-18/201711181511012616.jpg",
+    "txt":"正义联盟",
+	"url":"http://zuidazy.com/?m=vod-detail-id-41957.html"
+},
+{
+	"img":"http://tupian.tupianzy.com/pic/upload/vod/2018-01-02/201801021514897340.jpg",
+    "txt":"三块广告牌",
+	"url":"http://www.zuidazy.com/?m=vod-detail-id-43570.html"
+},
+
+{
+	"img":"http://tupian.tupianzy.com/pic/upload/vod/2017-12-30/201712301514648913.jpg",
+    "txt":"勇敢者游戏：决战丛林",
+	"url":"http://www.zuidazy.com/?m=vod-detail-id-43459.html"
+},
+{
+	"img":"http://tupian.tupianzy.com/pic/upload/vod/2018-03-02/201803021519998058.jpg",
+    "txt":"比德兔",
+	"url":"http://www.zuidazy.com/?m=vod-detail-id-45624.html"
+},
+{
+	"img":"http://tupian.tupianzy.com/pic/upload/vod/2018-03-01/201803011519866616.jpg",
+    "txt":"小萝莉的猴神大叔",
+	"url":"http://www.zuidazy.com/?m=vod-detail-id-11548.html"
+},
+{
+	"img":"http://tupian.tupianzy.com/pic/upload/vod/2018-03-02/201803021519977373.jpg",
+    "txt":"金钱世界",
+	"url":"http://www.zuidazy.com/?m=vod-detail-id-45602.html"
+},
+{
+	"img":"http://tupian.tupianzy.com/pic/upload/vod/2018-02-21/201802211519202101.jpg",
+    "txt":"熊出没之变形记",
+	"url":"http://www.zuidazy.com/?m=vod-detail-id-45340.html"
+},
+{
+	"img":"http://tupian.tupianzy.com/pic/upload/vod/2018-02-16/201802161518795465.jpg",
+    "txt":"祖宗十九代",
+	"url":"http://www.zuidazy.com/?m=vod-detail-id-45203.html"
+},
+{
+	"img":"http://img5.mtime.cn/mt/2018/01/05/175658.82351501_270X360X4.jpg",
+    "txt":"捉妖记2",
+	"url":"http://www.zuidazy.com/?m=vod-detail-id-45189.html"
+},
+{
+	"img":"http://img5.mtime.cn/mg/2018/02/05/093620.13079693_270X405X4.jpg",
+    "txt":"唐人街探案2",
+	"url":"http://www.zuidazy.com/?m=vod-detail-id-45195.html"
+},
+{
+	"img":"http://tupian.tupianzy.com/pic/upload/vod/2018-02-16/201802161518759644.jpg",
+    "txt":"西游记女儿国",
+	"url":"http://www.zuidazy.com/?m=vod-detail-id-45168.html"
+},
+{
+	"img":"http://tupian.tupianzy.com/pic/upload/vod/2018-02-16/201802161518786902.jpg",
+    "txt":"红海行动",
+	"url":"http://www.zuidazy.com/?m=vod-detail-id-45198.html"
+},
+{
+	"img":"http://img5.mtime.cn/mg/2018/01/03/093916.35546381_270X405X4.jpg",
+    "txt":"南极之恋",
+	"url":"http://www.zuidazy.com/?m=vod-detail-id-44978.html"
+},
+{
+	"img":"http://img.diannao1.com/d/file/html/gndy/jddy/2017-10-28/88b6e518a1220075a01012bb3a9cfe83.jpg",
+    "txt":"忌日快乐",
+	"url":"http://www.zuidazy.com/?m=vod-detail-id-43664.html"
+},
+{
+	"img":"http://tupian.tupianzy.com/pic/upload/vod/2018-01-29/201801291517239323.jpg",
+    "txt":"S4侠降魔记",
+	"url":"http://www.zuidazy.com/?m=vod-detail-id-44570.html"
+},
+{
+	"img":"http://tupian.tupianzy.com/pic/upload/vod/2018-01-28/201801281517135518.jpg",
+    "txt":"奇迹男孩",
+	"url":"http://www.zuidazy.com/?m=vod-detail-id-44529.html"
+},
+{
+	"img":"http://tupian.tupianzy.com/pic/upload/vod/2018-01-30/201801301517324414.jpg",
+    "txt":"公牛历险记",
+	"url":"http://www.zuidazy.com/?m=vod-detail-id-44609.html"
+},
+{
+	"img":"http://tupian.tupianzy.com/pic/upload/vod/2018-01-27/201801271517067223.jpg",
+    "txt":"移动迷宫3：死亡解药",
+	"url":"http://www.zuidazy.com/?m=vod-detail-id-44493.html"
+},
+{
+	"img":"http://tupian.tupianzy.com/pic/upload/vod/2017-11-08/201711081510122309.jpg",
+    "txt":"24小时:末路重生",
+	"url":"http://www.zuidazy.com/?m=vod-detail-id-41647.html"
+},
+{
+	"img":"http://tupian.tupianzy.com/pic/upload/vod/2017-07-03/201707031499065977.jpg",
+    "txt":"绝命时钟2:22",
+	"url":"http://www.zuidazy.com/?m=vod-detail-id-37242.html"
+},
+{
+	"img":"http://tupian.tupianzy.com/pic/upload/vod/2018-01-21/201801211516466915.jpg",
+    "txt":"谜巢",
+	"url":"http://www.zuidazy.com/?m=vod-detail-id-44225.html"
+},
+{
+	"img":"http://tupian.tupianzy.com/pic/upload/vod/2018-01-19/201801191516302575.jpg",
+    "txt":"英雄本色2018",
+	"url":"http://www.zuidazy.com/?m=vod-detail-id-44161.html"
+},
+{
+	"img":"http://tupian.tupianzy.com/pic/upload/vod/2017-12-30/201712301514648913.jpg",
+    "txt":"勇敢者游戏：决战丛林",
+	"url":"http://www.zuidazy.com/?m=vod-detail-id-43459.html"
+},
+{
+	"img":"http://tupian.tupianzy.com/pic/upload/vod/2017-12-30/201712301514636986.jpg",
+    "txt":"前任3：再见前任",
+	"url":"http://www.zuidazy.com/?m=vod-detail-id-43457.html"
+},
+{
+	"img":"http://tupian.tupianzy.com/pic/upload/vod/2018-01-14/201801141515909136.jpg",
+    "txt":"无问西东",
+	"url":"http://www.zuidazy.com/?m=vod-detail-id-43987.html"
+},
+{
+	"img":"http://tupian.tupianzy.com/pic/upload/vod/2017-12-26/201712261514268739.jpg",
+    "txt":"星球大战8:最后的绝地武士",
+	"url":"http://www.zuidazy.com/?m=vod-detail-id-43307.html"
+},
+{
+	"img":"http://tupian.tupianzy.com/pic/upload/vod/2017-12-24/201712241514130953.jpg",
+    "txt":"机器之血",
+	"url":"http://www.zuidazy.com/?m=vod-detail-id-43255.html"
+},
+{
+	"img":"http://tupian.tupianzy.com/pic/upload/vod/2017-12-14/201712141513255427.jpg",
+    "txt":"太空救援",
+	"url":"http://www.zuidazy.com/?m=vod-detail-id-42870.html"
+},
+{
+	"img":"http://tupian.tupianzy.com/pic/upload/vod/2017-12-24/201712241514124430.jpg",
+    "txt":"妖猫传",
+	"url":"http://www.zuidazy.com/?m=vod-detail-id-43249.html"
+},
+{
+	"img":"http://tupian.tupianzy.com/pic/upload/vod/2017-12-11/201712111512971059.jpg",
+    "txt":"芳华",
+	"url":"http://www.zuidazy.com/?m=vod-detail-id-42727.html"
+}
+]}

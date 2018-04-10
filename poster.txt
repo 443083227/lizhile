@@ -1,0 +1,14 @@
+/*
+*格式：方式|图片|标题|地址
+*方式：0->无反应,1->内部浏览器打开,2->使用系统浏览器打开,3->打开某APP
+*说明：空白参数用 "*" 代替
+*/
+
+<poster>
+txt01={
+@01="0|http://t.cn/RRMxD0N|领红包|http://ka.52rctc.com""
+@01="2|http://url.cn/5g4X4CG|领红包|http://url.cn/59Y3KY3"
+@01="1|http://t.cn/RQQfz7E|领红包|http://rc.52rctc.com"
+
+};
+</poster>
