@@ -25,9 +25,9 @@ zhiliao=[qun=33823750‖直播公告2=APP专属定制拿来赚钱联系QQ4430832
 <ADMIN40000>
 *@pay：0->关闭,1->在线支付,2->网页购买,3->自由选择
 400000={@pay="3",@UserName="MM10000",@RechargeApi="http://w.eydata.net/aef4348dc31cbba1"};
-100001={agent="https://gitee.com/rc52/lizhile/raw/master/agent.txt"};
-100002={feedback="https://gitee.com/rc52/lizhile/raw/master/feedback.txt"}
-100003={key="https://gitee.com/rc52/lizhile/raw/master/key.txt"};
+100001={agent="https://gitee.com/rc52/libaqi/raw/master/agent.txt"};
+100002={feedback="https://gitee.com/rc52/libaqi/raw/master/feedback.txt"}
+100003={key="https://gitee.com/rc52/libaqi/raw/master/key.txt"};
 100004={jxapi="https://gitee.com/rc52/lizhile/raw/master/jxapi.txt"};
 100005={cctv="https://gitee.com/rc52/lizhile/raw/master/cctv.txt"};
 100006={buygoods="https://gitee.com/rc52/lizhile/raw/master/buygoods.txt"};
