@@ -1,13 +1,13 @@
-﻿<admin>
+<admin>
 <ADMIN10000> 
 200000={停用软件="假"};
 100000={启动更新="真"};
 100001={更新方式="网盘下载"};
-100002={最新版本="3.8"};
+100002={最新版本="4.1"};
 100003={会员开关="真"};
-100004={更新说明="更新说明：|1.修复提示错误代码|2.新增在线支付|3.修复了腾讯剧集无法下一集|4.优化了人人代理功能"};
-100020={公告内容="🌹如果出现代码错误，未授权提示，请在会员中心里面从新下载安装即可"};
-100080={QQ="443083227",WX="lizhile0305",URL="http://t.cn/RnydT27",URL2="https://share.weiyun.com/5XCyEvK"};
+100004={更新说明="更新说明：|1.修复了电视直播|2.新增了成人电影免费|3.新增了成人小说|4.新增了梨视频娱乐视频"};
+100020={公告内容="🌹新版本已经发布，软件下载界面更新即可"};
+100080={QQ="183788064",WX="HYM5207758",URL="https://fir.im/RCYS",URL2="https://fir.im/RCYS"};
 zhiliao=[qun=33823750‖直播公告2=APP专属定制拿来赚钱联系QQ443083227‖直播公告=APP专属定制拿来赚钱联系QQ443083227‖直播地址=http://www.hlyy.cc/zxtv/m/‖音乐地址=http://wx.52rctc.cn/‖]
 </ADMIN10000>
 
@@ -15,11 +15,11 @@ zhiliao=[qun=33823750‖直播公告2=APP专属定制拿来赚钱联系QQ4430832
 200000={停用软件="假"};
 100000={启动更新="真"};
 100001={更新方式="网盘下载"};
-100002={最新版本="3.7"};
+100002={最新版本="4.1"};
 100003={会员开关="真"};
 100004={更新说明="更新说明：|1.请你一定要更新|2.新增部分内容|3.更新BUG,修复当前问题|4.修复其他"};
 100020={公告内容="🍀 许多人使用本软件后!从此事业高升了，爱情圆满了，心想事成了，愿望都实现了"};
-100080={QQ="443083227",WX="lizhile0305",URL="http://t.cn/RnyQrBp",URL2="http://t.cn/RnyQrBp"};
+100080={QQ="443083227",WX="libaqi0305",URL="https://fir.im/rcys",URL2="https://fir.im/rcys"};
 </ADMIN20000>
 
 <ADMIN40000>
@@ -28,16 +28,23 @@ zhiliao=[qun=33823750‖直播公告2=APP专属定制拿来赚钱联系QQ4430832
 100001={agent="https://gitee.com/rc52/libaqi/raw/master/agent.txt"};
 100002={feedback="https://gitee.com/rc52/libaqi/raw/master/feedback.txt"}
 100003={key="https://gitee.com/rc52/libaqi/raw/master/key.txt"};
-100004={jxapi="https://gitee.com/rc52/lizhile/raw/master/jxapi.txt"};
-100005={cctv="https://gitee.com/rc52/lizhile/raw/master/cctv.txt"};
-100006={buygoods="https://gitee.com/rc52/lizhile/raw/master/buygoods.txt"};
-100007={poster="https://gitee.com/rc52/lizhile/raw/master/poster.txt"};
-100008={UserUp="https://gitee.com/rc52/lizhile/raw/master/UserUp.txt"
-100009={shaoer="https://gitee.com/rc52/lizhile/raw/master/shaoer.txt"
-100010={yangshi="https://gitee.com/rc52/lizhile/raw/master/yangshi.txt"
-100011={guowai="https://gitee.com/rc52/lizhile/raw/master/guowai.txt"}
-100012={dianying="https://gitee.com/rc52/lizhile/raw/master/dianying.txt"}
-100013={YYzhibo="https://gitee.com/rc52/lizhile/raw/master/YYzhibo.txt"}
-100014={fuli="https://gitee.com/rc52/lizhile/raw/master/fuli.txt"}
+100004={jxapi="https://gitee.com/rc52/libaqi/raw/master/jxapi.txt"};
+100005={cctv="https://gitee.com/rc52/libaqi/raw/master/cctv.txt"};
+100006={buygoods="https://gitee.com/rc52/libaqi/raw/master/zuoka.txt"};
+100007={poster="http://tc.52rctc.com/app/gg.txt"};
+100008={UserUp="https://gitee.com/rc52/libaqi/raw/master/UserUp.txt"
+100009={shaoer="https://gitee.com/rc52/libaqi/raw/master/shaoer.txt"
+100010={yangshi="https://gitee.com/rc52/libaqi/raw/master/yangshi.txt"
+100011={guowai="https://gitee.com/rc52/libaqi/raw/master/guowai.txt"}
+100012={dianying="https://gitee.com/rc52/libaqi/raw/master/dianying.txt"}
+100013={YYzhibo="https://gitee.com/rc52/libaqi/raw/master/YYzhibo.txt"}
+100014={fuli="https://gitee.com/rc52/libaqi/raw/master/fuli.txt"}
+100015={guochan="https://raw.githubusercontent.com/443083227/libaba1/master/guochan.txt"}
+100016={siwa="https://raw.githubusercontent.com/443083227/libaba1/master/siwa.txt"}
+100017={hanguo="https://raw.githubusercontent.com/443083227/libaba1/master/hanguo.txt"}
+100018={wuma="https://raw.githubusercontent.com/443083227/libaba1/master/wuma.txt"}
+100019={youma="https://raw.githubusercontent.com/443083227/libaba1/master/youma.txt"}
+100020={shixun="https://raw.githubusercontent.com/443083227/libaba1/master/shixun.txt"}
+100021={zhongwen="https://raw.githubusercontent.com/443083227/libaba1/master/zhongwen.txt"}
+100022={oumei="https://raw.githubusercontent.com/443083227/libaba1/master/oumei.txt"}
 </ADMIN40000>
-</admin>
